@@ -1,0 +1,4 @@
+name: BlockBlocker
+version: '1.0'
+main: org.frags.blockBlocker.BlockBlocker
+api-version: '1.20'
